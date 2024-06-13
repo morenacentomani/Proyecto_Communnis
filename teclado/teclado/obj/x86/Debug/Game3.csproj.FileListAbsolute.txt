@@ -1,0 +1,57 @@
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\Game3.exe
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\Game3.pdb
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\obj\x86\Debug\Game3.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\obj\x86\Debug\Game3.exe
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\obj\x86\Debug\Game3.pdb
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\Content\cuadrado1.xnb
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\Content\A.xnb
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\Content\enter (1).xnb
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\Content\arial.ttf
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\Content\Fonts\arial.ttf
+C:\Users\User\Documents\Visual Studio 2015\Game3\Game3\bin\Windows\x86\Debug\Content\Hello Roti.ttf
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\obj\x86\Debug\Game3.exe
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\obj\x86\Debug\Game3.pdb
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\Content\arial.ttf
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\Content\Hello Roti.ttf
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\Content\Fonts\arial.ttf
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\Content\A.xnb
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\Content\cuadrado1.xnb
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\Content\enter (1).xnb
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\Game3.exe
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\Game3.pdb
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\obj\x86\Debug\Game3.csprojResolveAssemblyReference.cache
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\Game3\Game3\bin\Windows\x86\Debug\Content\Fonts\arial.xnb
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\teclado\teclado\obj\x86\Debug\Game3.exe
+C:\Users\Alumno.DESKTOP-U6RKJ0U\Downloads\teclado\teclado\obj\x86\Debug\Game3.pdb

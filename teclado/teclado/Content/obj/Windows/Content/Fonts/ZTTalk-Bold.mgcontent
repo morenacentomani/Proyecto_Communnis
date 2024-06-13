@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Alumno.DESKTOP-U6RKJ0U/Downloads/teclado/teclado/Content/Fonts/ZTTalk-Bold.spritefont</SourceFile>
+  <SourceTime>2024-06-06T14:40:54.0728377-03:00</SourceTime>
+  <DestFile>C:/Users/Alumno.DESKTOP-U6RKJ0U/Downloads/teclado/teclado/Content/bin/Windows/Content/Fonts/ZTTalk-Bold.xnb</DestFile>
+  <DestTime>2024-06-06T14:41:23.60393-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T13:35:54-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T13:35:54-03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
